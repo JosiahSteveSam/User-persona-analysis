@@ -1,7 +1,7 @@
 ## USER PERSOANA ANALYSIS ##
 A sophisticated system that leverages Natural Language Processing and Machine Learning to automatically generate user personas from conversational data.
 <p align="center">
-  <img src="/api/placeholder/600/300" alt="Persona System Dashboard" />
+  
 </p>
 Overview
 This project creates an intelligent chatbot interface that engages users in natural conversation while analyzing linguistic patterns and content preferences to build comprehensive persona profiles. These profiles evolve over time as more interaction data becomes available, providing valuable insights for user-centered design and marketing strategies.
@@ -30,7 +30,7 @@ Application Layer: Conversation service, NLP pipeline, and persona analysis
 Data Layer: MongoDB database, Redis cache, and file storage
 
 <p align="center">
-  <img src="/api/placeholder/600/400" alt="System Architecture" />
+  
 </p>
 Installation
 Prerequisites
